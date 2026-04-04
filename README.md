@@ -3,7 +3,7 @@
 > **Proof of concept** — Running modern Spotify Connect (librespot 0.8.0) on a 
 > Logitech Squeezebox Touch with Linux kernel 2.6.26 and ARMv6 processor.
 
-![Squeezebox Touch](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Squeezebox_touch.jpg/320px-Squeezebox_touch.jpg)
+https://www.cnet.com/a/img/resize/ee13774f789b424a6af810a36b8bc4ab5174ef2e/hub/2012/06/14/4a66de03-bb76-11e2-8a8e-0291187978f3/10_Logitech_squeezebox_touch_33770453.JPG?width=768
 
 ## What this does
 
