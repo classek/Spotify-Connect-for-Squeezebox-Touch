@@ -1,0 +1,47 @@
+SPOTIFY
+	EN	Spotify Connect
+	SV	Spotify Connect
+
+SPOTIFY_ON
+	EN	On
+	SV	Pa
+
+SPOTIFY_OFF
+	EN	Off
+	SV	Av
+
+SPOTIFY_STARTING
+	EN	Starting Spotify Connect...
+	SV	Startar Spotify Connect...
+
+SPOTIFY_STOPPING
+	EN	Stopping Spotify Connect...
+	SV	Stoppar Spotify Connect...
+
+SPOTIFY_RUNNING
+	EN	Running
+	SV	Kors
+
+SPOTIFY_STOPPED
+	EN	Stopped
+	SV	Stoppad
+
+SPOTIFY_PREV
+	EN	|<< Previous
+	SV	|<< Foregaende
+
+SPOTIFY_PLAYPAUSE
+	EN	>/|| Play / Pause
+	SV	>/|| Spela / Paus
+
+SPOTIFY_NEXT
+	EN	>>| Next
+	SV	>>| Nasta
+
+SPOTIFY_STATUS
+	EN	Status
+	SV	Status
+
+SPOTIFY_SHOW_STATUS
+	EN	Show Status
+	SV	Visa Status
