@@ -300,9 +300,9 @@ Navigate to **Home → Spotify Connect** on the touchscreen.
 ## Known Limitations
 
 - **No Spotify Lossless** — Spotify's FLAC stream is not available via Connect protocol to third-party devices (as of 2025)
-- **No AirPlay 2** — Requires MFi authentication chip; classic AirPlay 1 could theoretically work via shairport-sync
+
 - **Clock resets to 1970** on every reboot — handled automatically by startup script
-- **jive_alsa must be stopped** when Spotify plays (cannot share hw:1 simultaneously)
+
 - **IPv6 not supported** — kernel limitation
 
 ---
@@ -379,7 +379,9 @@ This makes AirPlay 2 via shairport-sync a realistic future project for this plat
 - [librespot](https://github.com/librespot-org/librespot) — Open source Spotify Connect library
 - [Lyrion Music Server](https://lyrion.org) — SqueezePlay applet documentation  
 - [musl.cc](https://musl.cc) — musl cross-compilation toolchains
-- [shairport-sync](https://github.com/mikebrady/shairport-sync) — AirPlay reference
+-  My Brother Martin Hammarbrink who donated the Squeezebox
+And my wonderful wife who knows that i can get obsessed when i'm working on a new project 
+- 
 
 ---
 
