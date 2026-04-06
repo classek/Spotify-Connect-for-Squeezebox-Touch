@@ -1,0 +1,12 @@
+#!/bin/sh
+# synctime - Auto time sync when WiFi connects
+# Place in /etc/network/if-up.d/synctime and chmod +x
+#
+# The Squeezebox Touch resets its clock to 1970 on every reboot.
+# This script runs automatically when the network interface comes up,
+# syncing the system time via rdate before Spotify Connect tries to
+# connect (TLS certificate validation requires correct system time).
+
+rdate -s time.nist.gov 2>/dev/null || \
+rdate -s time.cloudflare.com 2>/dev/null || \
+rdate -s 129.6.15.28 2>/dev/null
